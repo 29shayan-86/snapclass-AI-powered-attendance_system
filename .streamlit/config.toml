@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#ff2a75"
+
+[server]
+runOnSave = true
+headless = true
