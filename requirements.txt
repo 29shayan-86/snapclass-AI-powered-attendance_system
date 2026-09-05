@@ -11,3 +11,4 @@ segno
 pillow
 librosa
 resemblyzer
+supabase
